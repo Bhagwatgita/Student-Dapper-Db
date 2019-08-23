@@ -1,0 +1,14 @@
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\bin\Debug\netcoreapp2.2\ExecuteGenericDb.deps.json
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\bin\Debug\netcoreapp2.2\ExecuteGenericDb.runtimeconfig.json
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\bin\Debug\netcoreapp2.2\ExecuteGenericDb.runtimeconfig.dev.json
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\bin\Debug\netcoreapp2.2\ExecuteGenericDb.dll
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\bin\Debug\netcoreapp2.2\ExecuteGenericDb.pdb
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\bin\Debug\netcoreapp2.2\DbGeneric.dll
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\bin\Debug\netcoreapp2.2\DbGeneric.pdb
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\obj\Debug\netcoreapp2.2\ExecuteGenericDb.csprojAssemblyReference.cache
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\obj\Debug\netcoreapp2.2\ExecuteGenericDb.csproj.CoreCompileInputs.cache
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\obj\Debug\netcoreapp2.2\ExecuteGenericDb.AssemblyInfoInputs.cache
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\obj\Debug\netcoreapp2.2\ExecuteGenericDb.AssemblyInfo.cs
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\obj\Debug\netcoreapp2.2\ExecuteGenericDb.csproj.CopyComplete
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\obj\Debug\netcoreapp2.2\ExecuteGenericDb.dll
+H:\Study_Proj\8_23_2019\DapperDbRepo\ExecuteGenericDb\obj\Debug\netcoreapp2.2\ExecuteGenericDb.pdb

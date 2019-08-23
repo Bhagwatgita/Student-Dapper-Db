@@ -1,0 +1,9 @@
+H:\Study_Proj\8_23_2019\DapperDbRepo\DbGeneric\bin\Debug\netcoreapp2.2\DbGeneric.deps.json
+H:\Study_Proj\8_23_2019\DapperDbRepo\DbGeneric\bin\Debug\netcoreapp2.2\DbGeneric.dll
+H:\Study_Proj\8_23_2019\DapperDbRepo\DbGeneric\obj\Debug\netcoreapp2.2\DbGeneric.csprojAssemblyReference.cache
+H:\Study_Proj\8_23_2019\DapperDbRepo\DbGeneric\obj\Debug\netcoreapp2.2\DbGeneric.csproj.CoreCompileInputs.cache
+H:\Study_Proj\8_23_2019\DapperDbRepo\DbGeneric\obj\Debug\netcoreapp2.2\DbGeneric.AssemblyInfoInputs.cache
+H:\Study_Proj\8_23_2019\DapperDbRepo\DbGeneric\obj\Debug\netcoreapp2.2\DbGeneric.AssemblyInfo.cs
+H:\Study_Proj\8_23_2019\DapperDbRepo\DbGeneric\bin\Debug\netcoreapp2.2\DbGeneric.pdb
+H:\Study_Proj\8_23_2019\DapperDbRepo\DbGeneric\obj\Debug\netcoreapp2.2\DbGeneric.dll
+H:\Study_Proj\8_23_2019\DapperDbRepo\DbGeneric\obj\Debug\netcoreapp2.2\DbGeneric.pdb
